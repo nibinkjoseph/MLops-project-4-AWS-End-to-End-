@@ -34,3 +34,28 @@ Create an IAM role
 
 Notebook instance is created
 ![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/fddc3196-19e4-43b6-81ce-dcd91cf5bafc)
+
+Step 3 : Go back to the domain page
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/b4a26785-4293-4b50-b85c-dba3ea55a659)
+
+From instance page click on to studio option
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/d44a5ae4-6555-415a-a603-988e61db0c29)
+
+Open Jupyter 
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/2e4503d8-fc92-4855-9535-bfa0a8625801)
+
+Upload the files to Jupyter
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/562c33e3-c0e5-4f3d-90d7-346af6136d76)
+
+
+
+
+
+
+
+
+
+
+
+
+
