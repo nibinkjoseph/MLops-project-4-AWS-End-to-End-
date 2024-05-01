@@ -47,6 +47,9 @@ Open Jupyter
 Upload the files to Jupyter
 ![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/562c33e3-c0e5-4f3d-90d7-346af6136d76)
 
+Go to Sagemaker studio
+
+
 
 
 
