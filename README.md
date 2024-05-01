@@ -49,16 +49,19 @@ Upload the files to Jupyter
 
 Go to Sagemaker studio
 
+Click deployment and select projects
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/53c2d858-6dc7-4bc0-ba76-49f21158ca92)
+    + Create project
+    + Select a template
+    + Select model building, training, and deployment
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/61c6aceb-293c-43fd-a2ca-530747ac36e2)
 
+Project details
+    * Project name: mlops-nov23
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/fa72a17c-3e7f-45cc-90ab-694da4aef745)
 
-
-
-
-
-
-
-
-
+Search for codecommit and open it. You will notice two repositories
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/335632d4-7902-469d-930e-961422dc8a32)
 
 
 
