@@ -57,12 +57,36 @@ Click deployment and select projects
     + Select model building, training, and deployment
 ![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/61c6aceb-293c-43fd-a2ca-530747ac36e2)
 
-Project details
-    * Project name: mlops-nov23
-![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/fa72a17c-3e7f-45cc-90ab-694da4aef745)
-
 Search for codecommit and open it. You will notice two repositories
 ![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/335632d4-7902-469d-930e-961422dc8a32)
+
+
+Select Studio Classic
+
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/94e6c0d4-1ffb-4248-8da5-c833316a7bab)
+
+
+Name : my-space
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/f0c3f80e-c12f-42d3-b2cd-a8f957dd42a5)
+
+Next page
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/cbb408a8-d44c-4741-a48c-b94fbb6c1a84)
+
+Create a project
+Name:mlopsjan24
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/b6ef5ebd-9f62-4d8c-91f4-c56d22b4c929)
+
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/debab87a-6237-42c0-9630-7c320491c90a)
+
+
+Go to pipeline and double click
+
+
+Clone the repository
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/e7b7d59d-ba68-4cd3-92e8-20e74535db03)
+
+
+
 
 
 
