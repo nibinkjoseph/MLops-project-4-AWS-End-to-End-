@@ -87,6 +87,17 @@ Clone the repository
 
 
 
+Model registry
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/247f3701-5457-44d2-a9b9-9ef9a102a93d)
 
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/86f53c52-4983-4ca9-b97a-b26007ab692a)
+
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/475f69bc-2b1e-46c6-8a19-df0c3bf26c1f)
+
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/d033d639-1f72-47f1-ab9b-76cc82c4ad9b)
+
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/a03cb536-8dca-46b9-83e3-0d30c94da0e9)
+
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/d97746eb-f3a9-4859-ae2c-df42c9017845)
 
 
