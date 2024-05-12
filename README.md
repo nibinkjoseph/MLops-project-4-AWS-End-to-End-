@@ -13,7 +13,7 @@ Amazon sagemaker pipeline
 * Sagemaker logs every step of the workflow
 * Audit traills can be used to recreate models
 
-SageMaker Pipelines
+# SageMaker Pipelines
 
 Step1 : Sagemaker
 We need to create a domain for sagemaker studio
