@@ -101,3 +101,7 @@ Model registry
 ![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/d97746eb-f3a9-4859-ae2c-df42c9017845)
 
 
+![image](https://github.com/nibinkjoseph/MLops-project-4-AWS-End-to-End-/assets/63180074/3bff7ee4-4e98-43c5-82ba-5eee6783631d)
+
+
+
