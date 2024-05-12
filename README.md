@@ -1,4 +1,4 @@
-# MLops-project-AWS-End-to-End
+# AWS-End-to-End Mlops Project to Predict Abalone Age using Amazon Sagemaker
 
 Amazon sagemaker pipeline
 
